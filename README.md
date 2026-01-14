@@ -1,6 +1,6 @@
 # CIS 3902 – AI and Machine Learning
  
-Name: Ian Shue, Student 
+Name: Ian Shue 
 Major: Mathematical Finance  
 Semester: Spring 2026
  
