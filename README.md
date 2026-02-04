@@ -21,3 +21,11 @@ This notebook demonstrates how model complexity affects bias, variance, and over
   Bias and Variance Example with LR
  </a>
 </p>
+
+## Reading Files in Colab with Jupyter
+This notebook demonstrates how model complexity affects bias, variance, and overfitting using a simple agricultural dataset relating fertilizer rate to crop yield. 
+<p>
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">
+ Reading Files in Colab with Jupyter
+ </a>
+</p>
