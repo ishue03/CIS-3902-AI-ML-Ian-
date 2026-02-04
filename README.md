@@ -23,7 +23,7 @@ This notebook demonstrates how model complexity affects bias, variance, and over
 </p>
 
 ## Reading Files in Colab with Jupyter
-This notebook demonstrates how model complexity affects bias, variance, and overfitting using a simple agricultural dataset relating fertilizer rate to crop yield. 
+This notebook demonstrates multiple ways to load datasets into a Jupyter Notebook using Pandas, depending on where the data is stored. These methods are commonly used in data mining and data analysis workflows.
 <p>
  <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">
  Reading Files in Colab with Jupyter
