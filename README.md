@@ -14,3 +14,10 @@ This notebook demonstrates how to build, evaluate, and visualize a linear regres
  </a>
 </p>
 
+## Bias and Variance Example with LR
+This notebook demonstrates how to build, evaluate, and visualize a linear regression model using housing data.
+<p>
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb">
+  Linear Regression Example
+ </a>
+</p>
