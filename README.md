@@ -15,9 +15,9 @@ This notebook demonstrates how to build, evaluate, and visualize a linear regres
 </p>
 
 ## Bias and Variance Example with LR
-This notebook demonstrates how to build, evaluate, and visualize a linear regression model using housing data.
+This notebook demonstrates how model complexity affects bias, variance, and overfitting using a simple agricultural dataset relating fertilizer rate to crop yield. 
 <p>
  <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb">
-  Linear Regression Example
+  Bias and Variance Example with LR
  </a>
 </p>
