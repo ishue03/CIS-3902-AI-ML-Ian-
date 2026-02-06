@@ -29,3 +29,11 @@ This notebook demonstrates multiple ways to load datasets into a Jupyter Noteboo
  Reading Files in Colab with Jupyter
  </a>
 </p>
+
+## Regularization
+This notebook demonstrates multiple ways to load datasets into a Jupyter Notebook using Pandas, depending on where the data is stored. These methods are commonly used in data mining and data analysis workflows.
+<p>
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">
+ Reading Files in Colab with Jupyter
+ </a>
+</p>
