@@ -31,9 +31,10 @@ This notebook demonstrates multiple ways to load datasets into a Jupyter Noteboo
 </p>
 
 ## Regularization
-This notebook demonstrates multiple ways to load datasets into a Jupyter Notebook using Pandas, depending on where the data is stored. These methods are commonly used in data mining and data analysis workflows.
+This notebook demonstrates how regularization affects linear regression models using a synthetic dataset with meaningful features, correlated copy features, and random noise. By comparing Linear Regression**, Ridge (L2), and Lasso (L1), the notebook shows how each method handles irrelevant and correlated features.
+
 <p>
- <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">
- Reading Files in Colab with Jupyter
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/regularization.ipynb">
+ Regularization
  </a>
 </p>
