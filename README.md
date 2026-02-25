@@ -55,7 +55,7 @@ This notebook walks through a complete data cleaning pipeline using the Titanic 
 This notebook applies a complete data cleaning pipeline to the Heart Failure Prediction dataset. It covers exploring the dataset structure, identifying hidden data quality issues (such as unrealistic zero values), handling missing data through median imputation, encoding categorical medical variables, detecting outliers using the IQR method, and scaling numerical features for modeling. The goal is to prepare clinical healthcare data for machine learning while emphasizing careful inspection and thoughtful preprocessing decisions.
 
 <p>
- <a href="https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/#scrollTo=OkAJXjMuuMRW">
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Data_Cleaning_Exercise_2.ipynb">
  Data Cleaning Exercise
  </a>
 </p>
