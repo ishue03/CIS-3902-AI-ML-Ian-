@@ -46,7 +46,7 @@ This notebook demonstrates how regularization affects linear regression models u
 This notebook walks through a complete data cleaning pipeline using the Titanic dataset. It covers exploring the data, handling missing values, removing unnecessary features, encoding categorical variables, detecting outliers, and scaling numerical features. The goal is to prepare messy real-world data for machine learning while demonstrating why thoughtful preprocessing decisions matter.
 
 <p>
- <a href="[https://githubtocolab.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/#scrollTo=OkAJXjMuuMRW](https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/#scrollTo=OkAJXjMuuMRW)">
+ <a href="https://githubtocolab.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/#scrollTo=OkAJXjMuuMRW">
   Data Wrangling with the Titanic Dataset
  </a>
 </p>
