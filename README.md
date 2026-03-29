@@ -69,3 +69,36 @@ This notebook builds a complete machine learning pipeline using a recent real-wo
  Random Forest Crime Assignment
  </a>
 </p>
+
+
+
+
+# Capstone Project
+
+## Optimizing Financial Portfolios: A Mathematical Approach Using Covariance Matrices and Linear Algebra
+
+This capstone project applies **Modern Portfolio Theory (Markowitz, 1952)** to construct and compare minimum variance portfolios across multiple tiers of U.S. banking institutions. Using historical market data retrieved via `yfinance`, the study estimates monthly returns, volatility, and covariance matrices to compute optimal portfolio allocations through matrix inversion and constrained optimization techniques.
+
+The project evaluates three distinct bank categories:
+
+- Successful large-cap banks (JPM, BOA, WFC)  
+- Mid-tier regional banks (FITB, CMA, TFC)  
+- Small regional banks (WAL, ZION, FHN)  
+
+For each group, the analysis:
+- Computes mean returns and standard deviations  
+- Constructs covariance matrices  
+- Solves for the Minimum Variance Portfolio (MVP) using linear algebra  
+- Calculates Sharpe ratios for risk-adjusted performance  
+- Compares results across bank classifications  
+
+The project bridges **linear algebra, statistics, and finance**, demonstrating how covariance structures and optimization theory directly inform real-world portfolio construction. It also evaluates diversification effects within and across banking tiers while discussing economic interpretation and model limitations.
+
+<p>
+ <a href="LINK_TO_NOTEBOOK_OR_PDF_HERE">
+  View Capstone Project
+ </a>
+</p>
+
+
+
