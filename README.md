@@ -65,12 +65,21 @@ This notebook applies a complete data cleaning pipeline to the Heart Failure Pre
 This notebook builds a complete machine learning pipeline using a recent real-world Chicago crime dataset to predict whether an arrest was made following a reported crime. It covers exploring the dataset structure, cleaning and selecting relevant variables, handling missing geographic data, visualizing spatial crime patterns with an interactive map, engineering categorical features through dummy encoding, and training a Random Forest classification model. The notebook evaluates performance using accuracy, a confusion matrix, classification metrics, and cross-validation, and interprets feature importance to understand which factors most influence arrest outcomes. The goal is to demonstrate end-to-end classification modeling while critically examining how geographic patterns and crime types shape arrest predictions and discussing the ethical implications of predictive policing models.
 
 <p>
- <a href="https://github.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/random_forest_crime_assignment_(1).ipynb">
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/random_forest_crime_assignment_(1).ipynb">
  Random Forest Crime Assignment
  </a>
 </p>
 
 
+
+## Autoviz
+This notebook demonstrates automated exploratory data analysis using AutoViz on Seaborn’s built-in Penguins dataset. AutoViz generated statistical visualizations including scatterplots, heatmaps, and distribution plots to analyze relationships between bill length, flipper length, and body mass. The analysis revealed strong positive correlations between flipper length and body mass, species-based differences in measurements, and mild negative correlations involving bill depth. The project emphasizes visual data exploration prior to modeling.
+
+<p>
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Autoviz_(3).ipynb">
+ Autoviz
+ </a>
+</p>
 
 
 # Capstone Project
