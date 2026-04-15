@@ -119,7 +119,7 @@ The project bridges **linear algebra, statistics, and finance**, demonstrating h
 </p>
 
 <p>
-<a href="https://github.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Paper%20-%20First%20Draft%20-%20Ian%20Shue_GDL%5B45%5D%203.pdf">
+<a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Paper%20-%20First%20Draft%20-%20Ian%20Shue_GDL%5B45%5D%203.pdf">
 View Research Paper
 <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/MVP%20Calculations.xlsx">
 View Excel Capstone Calculations
