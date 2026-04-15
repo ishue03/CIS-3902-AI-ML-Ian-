@@ -125,3 +125,5 @@ View Excel Capstone Calculations
  </a>
 </p>
 
+[View Research Paper](Paper%20-%20First%20Draft%20-%20Ian%20Shue_GDL%5B45%5D%203.pdf)
+[View Excel Calculations](MVP%20Calculations.xlsx)
