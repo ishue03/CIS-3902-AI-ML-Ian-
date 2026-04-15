@@ -81,6 +81,15 @@ This notebook demonstrates automated exploratory data analysis using AutoViz on 
  </a>
 </p>
 
+## Mushroom Reduced Student Exercise
+This notebook builds and interprets a Decision Tree classifier using selected features from the UCI Mushroom dataset to predict whether a mushroom is edible or poisonous. After one‑hot encoding categorical variables, the model is evaluated using accuracy and a confusion matrix, and the resulting tree is visualized to extract clear IF–THEN decision rules. The project emphasizes model interpretability, highlights odor as a key predictive feature, and explores how tree depth affects performance and complexity.
+
+<p>
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Mushroom_Reduced_Student.ipynb">
+ Mushroom Reduced Student Exercise
+ </a>
+</p>
+
 
 # Capstone Project
 
