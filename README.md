@@ -117,3 +117,12 @@ The project bridges **linear algebra, statistics, and finance**, demonstrating h
 [View Research Paper](Paper%20-%20First%20Draft%20-%20Ian%20Shue_GDL%5B45%5D%203.pdf)
 
 [View Excel Calculations](MVP%20Calculations.xlsx)
+
+## Gaming and Mental Health Project
+
+<p>
+ <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/gaming_and_mental_health.ipynb">
+ Gaming and Mental Health Project
+ </a>
+</p>
+
