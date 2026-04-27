@@ -126,3 +126,12 @@ The project bridges **linear algebra, statistics, and finance**, demonstrating h
  </a>
 </p>
 
+## Customer Segmentation Using Clustering
+This notebook explores customer segmentation using the K-means clustering algorithm applied to mall customer data. The purpose of this analysis is to identify meaningful groups of customers based on characteristics such as age, annual income, and spending score. By performing both univariate and bivariate clustering, we aim to understand how income and spending behavior interact and how customers can be grouped into distinct segments. Using exploratory data analysis, inertia scores, and the elbow method, we determine an appropriate number of clusters and interpret the results from a business perspective. The ultimate goal of this project is to provide data-driven insights that can help a marketing team design more targeted and effective campaigns rather than relying on a one-size-fits-all strategy.
+
+<p>
+<a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Customer_Segmentation_Using_Clustering.ipynb">
+ Customer Segmentation Using Clustering
+ </a>
+</p>
+
