@@ -119,9 +119,48 @@ The project bridges **linear algebra, statistics, and finance**, demonstrating h
 [View Excel Calculations](MVP%20Calculations.xlsx)
 
 ## Gaming and Mental Health Project
+## 🎮 Gaming Addiction Risk Prediction
 
+This project develops a supervised machine learning model to predict gaming addiction risk levels (Low, Moderate, High, Severe) using behavioral, psychological, and lifestyle indicators.
+
+The dataset includes approximately 1,000 survey-based observations covering gaming habits, sleep behavior, social isolation, physical health indicators, and mood-related variables.
+
+### 🔍 Objective
+To identify individuals at elevated risk of severe gaming addiction using interpretable behavioral predictors.
+
+### 🧠 Models Implemented
+- Random Forest
+- Logistic Regression
+- Gradient Boosting
+
+### 📊 Final Test Performance
+- **Random Forest:** 89.0% accuracy  
+- **Logistic Regression:** 85.6% accuracy  
+- **Gradient Boosting:** 84.3% accuracy  
+
+Random Forest achieved the strongest overall performance while maintaining balanced precision and recall across all four risk levels.
+
+### 🔎 Key Predictors
+Important features included:
+- Daily gaming hours
+- Social isolation score
+- Monthly game spending
+- Sleep hours
+- Exercise frequency
+- Loss of interest in other activities
+- Continued gaming despite problems
+
+### ⚖️ Data Preparation Highlights
+- Structural missing variables removed (GPA, productivity score)
+- IQR-based outlier capping
+- Boolean variables converted to binary
+- Redundant time-based features removed
+- Stratified train-test split
+
+### 💡 Key Insight
+Gaming addiction risk appears to be strongly driven by behavioral intensity and psychosocial patterns rather than demographic characteristics.
 <p>
-<a href="https://github.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Gaming_and_Mental_Health%20(1).ipynb">
+<a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Gaming_and_Mental_Health%20(2).ipynb">
  Gaming and Mental Health Project
  </a>
 </p>
