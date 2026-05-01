@@ -121,7 +121,7 @@ The project bridges **linear algebra, statistics, and finance**, demonstrating h
 ## Gaming and Mental Health Project
 
 <p>
- <a href="https://githubtocolab.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/gaming_and_mental_health.ipynb">
+<a href="https://github.com/ishue03/CIS-3902-AI-ML-Ian-/blob/main/Gaming_and_Mental_Health%20(1).ipynb">
  Gaming and Mental Health Project
  </a>
 </p>
