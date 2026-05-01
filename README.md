@@ -123,7 +123,7 @@ The project bridges **linear algebra, statistics, and finance**, demonstrating h
 
 This project develops a supervised machine learning model to predict gaming addiction risk levels (Low, Moderate, High, Severe) using behavioral, psychological, and lifestyle indicators.
 
-The dataset includes approximately 1,000 survey-based observations covering gaming habits, sleep behavior, social isolation, physical health indicators, and mood-related variables.
+The dataset includes 1,000 survey-based observations covering gaming habits, sleep behavior, social isolation, physical health indicators, and mood-related variables.
 
 ### 🔍 Objective
 To identify individuals at elevated risk of severe gaming addiction using interpretable behavioral predictors.
